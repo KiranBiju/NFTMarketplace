@@ -57,7 +57,7 @@ Before running the application, ensure you have the following software installed
 2. Navigate to the project directory:
 
    bash
-   cd NFTMarketplace.git
+   cd NFTMarketplace
    
 
 3. Install dependencies:
